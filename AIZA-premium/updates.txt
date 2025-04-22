@@ -1,0 +1,31 @@
+Frontend Improvements:
+1. Navbar down in my orders page
+2. 2 items in shop page alongside
+3. Navbar icons' color managing with logoColor
+4. Appropriate Footer
+5. Appropriate contact page
+6. Make About Us page
+
+
+Replace all frontend(user+admin) allerts  with react-toastify
+
+
+IN the admin side, in all users section, bg green for verified users and bg red for unverified users
+
+verification email finding by: official email of the shop
+/backend/.env file: all details for official email of the shop
+Contact page, that third party service email by: official email of the shop
+
+
+
+***********PREMIUM FEATURES****************
+Buy Now form window in a new page with some customization.
+use localstorage  for add to cart functionality.
+Size Guide in the Site
+Company/brand-based Clothes Arrangement
+Cart
+Newsletter - Email the customers about new featured products
+Uploading category (admin uploads categories, a separate table in the database)
+Customer reviews/stars
+Sign-In/Sign-Up with Google
+Online Payment Integration

@@ -1,0 +1,1 @@
+This is my hobby project made upon MERN stack. this project includes, products showup, buying, accounts, my-shoppings as major in user side and in admin side, these all can be managed with full functionality. Implemented a strong foundational concepts in backend for its smooth functioning and security.
